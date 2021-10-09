@@ -1,0 +1,38 @@
+<item>
+<areacode>46</areacode>
+<areanm>전라남도</areanm>
+<baseymd>20210902</baseymd>
+<daywkdivcd>4</daywkdivcd>
+<daywkdivnm>목요일</daywkdivnm>
+<toudivcd>3</toudivcd>
+<toudivnm>외국인(c)</toudivnm>
+<tounum>1539.9637854619446</tounum>
+</item>
+
+<item>
+<baseymd>20210611</baseymd>
+<daywkdivcd>5</daywkdivcd>
+<daywkdivnm>금요일</daywkdivnm>
+<signgucode>41830</signgucode>
+<signgunm>양평군</signgunm>
+<toudivcd>3</toudivcd>
+<toudivnm>외국인(c)</toudivnm>
+<tounum>53.567837259100635</tounum>
+</item>
+
+45111	전주시 완산구
+45113	전주시 덕진구
+45130	군산시
+45140	익산시
+45180	정읍시
+45190	남원시
+45210	김제시
+45710	완주군
+45720	진안군
+45730	무주군
+45740	장수군
+45750	임실군
+45770	순창군
+45790	고창군
+45800	부안군
+
